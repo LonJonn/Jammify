@@ -20,7 +20,7 @@
     "moment-duration-format": "^2.2.2",
     "mongoose": "^5.4.5",
     "morgan": "^1.9.1",
-    "node-fetch": "^2.3.0",
+    "node-fetch": "^3.1.1",
     "node-pre-gyp": "^0.10.0",
     "sanitize-filename": "^1.6.1",
     "socket.io": "^2.2.0",
